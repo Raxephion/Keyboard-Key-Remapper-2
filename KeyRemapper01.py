@@ -2,9 +2,15 @@
 """
 Created on Mon Sep 16 11:59:46 2024
 
-@author: raxep
+@author: raxephion
 
 Keyboard key remapper
+
+
+Requirements:
+
+bash
+pip install keyboard
 
 """
 
